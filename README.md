@@ -22,12 +22,19 @@ This project demonstrates an end-to-end workflow for analyzing Netflix dataset u
 
 ## Folder Structure
 models/
+
 │
+
 ├── staging/ # Raw data transformations and cleaning
+
 ├── dim/ # Dimension tables
+
 ├── fact/ # Fact tables with measurable metrics
+
 ├── snapshots/ # Historical SCD tables
+
 ├── analyses/ # Ad-hoc or exploratory queries
+
 macros/ # Reusable SQL logic
 tests/ # Custom singular tests
 
