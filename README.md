@@ -36,6 +36,7 @@ models/
 ├── analyses/ # Ad-hoc or exploratory queries
 
 macros/ # Reusable SQL logic
+
 tests/ # Custom singular tests
 
 ## Key Steps
