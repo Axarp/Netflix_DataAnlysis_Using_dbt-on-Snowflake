@@ -7,7 +7,7 @@ This project demonstrates an end-to-end workflow for analyzing Netflix dataset u
 ## Project Overview
 
 - **Data Source**: MovieLens / Netflix dataset (dataset: https://grouplens.org/datasets/movielens/20m/)
-- **Tools Used**: dbt, Snowflake, Python (for environment setup)
+- **Tools Used**: dbt, Snowflake
 - **Key Concepts Covered**:
   - Staging and dimension models
   - Fact tables
